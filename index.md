@@ -3,6 +3,7 @@
 You can use the [editor on GitHub](https://github.com/mathresearch/mathresearch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[test](http://google.com/)
 
 ### Archive
 ```markdown
@@ -13,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Articles
 ```markdown
 1. Primitivity and Orbit Decomposition. 
-2. On the approximation.
+2. On the approximation of .
 3. On the primitivity of Cayley digraphs.
 ```
 
