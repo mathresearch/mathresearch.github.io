@@ -11,14 +11,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [Addendum to my article](https://www.google.com/)
 - [test](http://google.com)
 
-### Articles :sparkles:
+### Articles \:sparkles:
 
 1. [Primitivity and Orbit Decomposition.](http://www.jstor.org/stable/10.4169/amer.math.monthly.123.9.920) The American Mathematical Monthly Vol. 123, No. 9 (November 2016), pp. 920-923.
 2. [On the approximation of ergodic projections and stationary distributions.](http://repository.uwyo.edu/cgi/viewcontent.cgi?article=1570&context=ela) Electronic Journal of Linear Algebra 23 (2012), 989-1000.
 
 3. On the primitivity of Cayley digraphs.
 
-### Projects :tada:
+### Projects \:tada:
 
 - SMTP
 - FPG
