@@ -6,15 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Archive
 ```markdown
-- [Elliptic curves.](https://www.google.com/)
+- [Selected examples from elliptic curves](http://mathresearch.github.io/)
 - [Addendum to my article](https://www.google.com/)
 ```
 
 ### Articles
 ```markdown
 1. Primitivity and Orbit Decomposition. 
-2. List
-3. 
+2. On the approximation.
+3. On the primitivity of Cayley digraphs.
 ```
 
 ### Contact
