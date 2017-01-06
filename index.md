@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Archive
 ```markdown
-- [Elliptic curves.](https://www.google.com)
-- [Addendum to my article](https://www.google.com)
+- [Elliptic curves.](https://www.google.com/)
+- [Addendum to my article](https://www.google.com/)
 ```
 
 ### Articles
@@ -17,12 +17,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 3. 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Contact
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mathresearch/mathresearch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Licence
+### License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
