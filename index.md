@@ -6,9 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Archive
 ```markdown
-- [Elliptic curves.] (https://www.google.com)
-- [Addendum to my article] (https://www.google.com)
+- [Elliptic curves.](https://www.google.com)
+- [Addendum to my article](https://www.google.com)
 ```
+
 ### Articles
 ```markdown
 1. Primitivity and Orbit Decomposition. 
