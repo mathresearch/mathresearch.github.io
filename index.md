@@ -8,8 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Archiv
 
 - [Selected examples from elliptic curves](http://mathresearch.github.io/)
-- [Addendum to my article](https://www.google.com/)
-- [test](http://google.com)
+- [Addendum to my article \#2.](https://www.google.com/)
+
 
 ### Articles \:sparkles:
 
