@@ -16,7 +16,7 @@ You can use the [editor on GitHub](https://github.com/mathresearch/mathresearch.
 
 
 
-### Projects :tada:
+### Projects
 
 - SMTP
 - FPG
