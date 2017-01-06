@@ -11,7 +11,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [Addendum to my article \#2.](https://www.google.com/)
 
 
-### Articles :sparkles:
+### Articles 
+:sparkles:
 
 1. [Primitivity and Orbit Decomposition.](http://www.jstor.org/stable/10.4169/amer.math.monthly.123.9.920) The American Mathematical Monthly 123 (2016), 920-923.
 2. [On the approximation of ergodic projections and stationary distributions of stochastic matrices.](http://repository.uwyo.edu/cgi/viewcontent.cgi?article=1570&context=ela) Electronic Journal of Linear Algebra 23 (2012), 989-1000.
