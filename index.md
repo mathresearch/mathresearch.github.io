@@ -13,13 +13,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Articles :sparkles:
 
-1. Primitivity and Orbit Decomposition. 
+1. [Primitivity and Orbit Decomposition.](http://www.jstor.org/stable/10.4169/amer.math.monthly.123.9.920) The American Mathematical Monthly Vol. 123, No. 9 (November 2016), pp. 920-923.
 2. On the approximation of .
 3. On the primitivity of Cayley digraphs.
 
-### Contact
+### Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mathresearch/mathresearch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- SMTP
+- FPG
 
 ### License
 
