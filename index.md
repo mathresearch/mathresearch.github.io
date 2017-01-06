@@ -3,25 +3,19 @@
 You can use the [editor on GitHub](https://github.com/mathresearch/mathresearch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-[test](http://google.com/)
+
 
 ### Archiv
 
-- [Selected.](http://google.com)
-
-
-```markdown
 - [Selected examples from elliptic curves](http://mathresearch.github.io/)
 - [Addendum to my article](https://www.google.com/)
 - [test](http://google.com)
-```
 
-### Articles
-```markdown
+### Articles :sparkles:
+
 1. Primitivity and Orbit Decomposition. 
 2. On the approximation of .
 3. On the primitivity of Cayley digraphs.
-```
 
 ### Contact
 
