@@ -11,6 +11,7 @@ You can use the [editor on GitHub](https://github.com/mathresearch/mathresearch.
 
 3. [On the primitivity of Cayley digraphs.](http://www.sciencedirect.com/science/article/pii/S0024379510004374) LAA 434 (2011), 356-360.
 
+4. [Mixing  properties  of  triangular  feedback  shift  registers.](http://eprint.iacr.org/2005/009.pdf) Cryptology ePrint Archive, Report 2005/009.
 
 ### Archive 
 
