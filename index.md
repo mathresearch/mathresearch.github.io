@@ -14,6 +14,8 @@ Welcome to the GitHub website of mathresearch.[editor on GitHub](https://github.
 
 5. On the approximation of the delta distribution in Sobolev spaces of negative order. Applicable Analysis 36 (1990), 89-93.
 
+6. Bemerkungen über Tensorprodukte koerzitiver Hilbertraum-Operatoren. Forum Mathematicum 1 (1989), 153-166.
+
 ### Archive 
 
 
