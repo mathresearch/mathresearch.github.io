@@ -18,7 +18,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 3. On the primitivity of Cayley digraphs.
 
-### Projects
+### Projects :tada:
 
 - SMTP
 - FPG
