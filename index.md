@@ -16,6 +16,8 @@ Welcome to the GitHub website of mathresearch.[editor on GitHub](https://github.
 
 6. Bemerkungen über Tensorprodukte koerzitiver Hilbertraum-Operatoren. Forum Mathematicum 1 (1989), 153-166.
 
+7. On the convergence of the Backus-Gilbert algorithm. Inverse Problems 3 (1987), 341-346 (with G. Berendt).
+
 ### Archive 
 
 
