@@ -24,8 +24,8 @@ Welcome to the GitHub website of mathresearch.[editor on GitHub](https://github.
 
 ### Projects
 
-- SMTP
-- FPG
+<- SMTP
+>- FPG
 
 ### License
 
