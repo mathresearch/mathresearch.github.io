@@ -1,6 +1,6 @@
 ## Welcome
 
-Welcome to the GitHub website of mathresearch.[editor on GitHub](https://github.com/mathresearch/mathresearch.github.io/edit/master/index.md)
+Welcome to the GitHub website of mathresearch.[Editor on GitHub](https://github.com/mathresearch/mathresearch.github.io/edit/master/index.md)
 
 
 ### Articles 
@@ -24,7 +24,7 @@ Welcome to the GitHub website of mathresearch.[editor on GitHub](https://github.
 
 ### Projects
 
-<- SMTP
+>- SMTP
 >- FPG
 
 ### License
