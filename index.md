@@ -20,6 +20,8 @@ Welcome to the GitHub website of mathresearch.
 
 8. On the convergence of the Backus-Gilbert algorithm. Inverse Problems 3 (1987), 341-346 (with G. Berendt).
 
+9. On Gårding's inequality. Aequationes MathematicaeVolume 31 (1986), 7-17 (with N. Jacob).
+
 
 
 ### License
