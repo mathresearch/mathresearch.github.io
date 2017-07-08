@@ -1,6 +1,6 @@
 ## Welcome
 
-Welcome to the GitHub website of Bernd Schomburg.
+to the GitHub website of Bernd Schomburg.
 
 
 ### Articles 
