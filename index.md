@@ -14,15 +14,18 @@ to the GitHub website of Bernd Schomburg.
 
 5. The Floating Beam Problem: Weighted Regularity of Weak Solutions. Applicable Analysis 45 (1992), 69-93 (with K. Doppel).
 
-6. On the approximation of the delta distribution in Sobolev spaces of negative order. Applicable Analysis 36 (1990), 89-93.
+6. Regularity of solutions of the weak floating beam problem. Zeitschrift für Analysis und ihre Anwendungen 10 (1991), 
+   461-477 (with K. Doppel).
 
-7. Bemerkungen über Tensorprodukte koerzitiver Hilbertraum-Operatoren. Forum Mathematicum 1 (1989), 153-166.
+7. On the approximation of the delta distribution in Sobolev spaces of negative order. Applicable Analysis 36 (1990), 89-93.
 
-8. The Backus-Gilbert method. Inverse Problems 4 (1988), 771-783 (with A. Kirsch and G. Berendt).
+8. Bemerkungen über Tensorprodukte koerzitiver Hilbertraum-Operatoren. Forum Mathematicum 1 (1989), 153-166.
 
-9. On the convergence of the Backus-Gilbert algorithm. Inverse Problems 3 (1987), 341-346 (with G. Berendt).
+9. The Backus-Gilbert method. Inverse Problems 4 (1988), 771-783 (with A. Kirsch and G. Berendt).
 
-10. On Gårding's inequality. Aequationes MathematicaeVolume 31 (1986), 7-17 (with N. Jacob).
+10. On the convergence of the Backus-Gilbert algorithm. Inverse Problems 3 (1987), 341-346 (with G. Berendt).
+
+11. On Gårding's inequality. Aequationes MathematicaeVolume 31 (1986), 7-17 (with N. Jacob).
 
 
 
