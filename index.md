@@ -25,7 +25,7 @@ to the GitHub website of Bernd Schomburg.
 
 10. On the convergence of the Backus-Gilbert algorithm. Inverse Problems 3 (1987), 341-346 (with G. Berendt).
 
-11. On Gårding's inequality. Aequationes MathematicaeVolume 31 (1986), 7-17 (with N. Jacob).
+11. On Gårding's inequality. Aequationes Mathematicae 31 (1986), 7-17 (with N. Jacob).
 
 
 
