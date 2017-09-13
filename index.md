@@ -19,14 +19,15 @@ to the GitHub website of Bernd Schomburg.
 
 7. On the approximation of the delta distribution in Sobolev spaces of negative order. Applicable Analysis 36 (1990), 89-93.
 
-8. Bemerkungen über Tensorprodukte koerzitiver Hilbertraum-Operatoren. Forum Mathematicum 1 (1989), 153-166.
+8. A Robin-Neumann problem in bounded domains with splitting boundary. Numerical Functional Analysis and Optimization 10 (1989), 65-76 (with K. Doppel). 
 
-9. The Backus-Gilbert method. Inverse Problems 4 (1988), 771-783 (with A. Kirsch and G. Berendt).
+9. Bemerkungen über Tensorprodukte koerzitiver Hilbertraum-Operatoren. Forum Mathematicum 1 (1989), 153-166.
 
-10. On the convergence of the Backus-Gilbert algorithm. Inverse Problems 3 (1987), 341-346 (with G. Berendt).
+10. The Backus-Gilbert method. Inverse Problems 4 (1988), 771-783 (with A. Kirsch and G. Berendt).
 
-11. On Gårding's inequality. Aequationes Mathematicae 31 (1986), 7-17 (with N. Jacob).
+11. On the convergence of the Backus-Gilbert algorithm. Inverse Problems 3 (1987), 341-346 (with G. Berendt).
 
+12. On Gårding's inequality. Aequationes Mathematicae 31 (1986), 7-17 (with N. Jacob).
 
 
 ### License
