@@ -29,6 +29,10 @@ to the GitHub website of Bernd Schomburg.
 
 12. On Gårding's inequality. Aequationes Mathematicae 31 (1986), 7-17 (with N. Jacob).
 
+### Other material
+
+1. Emmy Noether's first theorem for first order Lagrangians.
+
 
 ### License
 
