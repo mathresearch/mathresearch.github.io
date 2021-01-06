@@ -31,7 +31,7 @@ to the GitHub website of Bernd Schomburg.
 
 ### Other material
 
-1. Emmy Noether's first theorem for first order Lagrangians.
+1. [Emmy Noether's first theorem for first order Lagrangians.](https://github.com/mathresearch/mathresearch.github.io/blob/master/Noether.pdf)
 
 
 ### License
