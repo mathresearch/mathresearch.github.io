@@ -32,6 +32,7 @@ to the GitHub website of Bernd Schomburg.
 ### Other material
 
 1. [Emmy Noether's first theorem for first order Lagrangians.](https://github.com/mathresearch/mathresearch.github.io/blob/master/Noether.pdf)
+2. On the minimal degree of doubly transitive permutation groups.
 
 
 ### License
